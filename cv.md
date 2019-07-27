@@ -133,13 +133,15 @@ TerraformやAnsibleを利用したインフラ構成のコード化を推進し�
 
 #### 経験プロダクト
 
-- AWS: EC2(本番・開発合わせて100台前後), ECS, Aurora, RDS, ElastiCache(Redis), EFS, S3, Lambda, CloudFront, ALB, Route53, CodePipeline, CodeBuild, CodeDeploy etc...
-- OS(CentOS, AmazonLinux, Ubuntu etc...)
+- AWS: EC2, ECS, Aurora, RDS, ElastiCache(Redis), EFS, S3, Lambda, CloudFront, ALB, Route53, CodePipeline, CodeBuild, CodeDeploy etc...
+- OS: Linux (CentOS, AmazonLinux, Ubuntu etc...)
 - IaC: Packer, Terraform, Ansible, Docker, Testinfra
 - MW: Apache, NGINX, PHP-FPM, Postfix, memcached, Redis, MySQL(Amazon Aurora), td-agent etc...
 - Monitoring: Mackerel, Prometheus
+- Programming Language: Python, PHP, JavaScript
+- Web Application Framework: FuelPHP
 - Other: Metadata, Serverless Framework, SonarQube, Jenkins, Grafana, Kibana
-- Repository: GitHub
+- VCS: Git (GitHub)
 - Tool: Jira, Confluence, Slack etc...
 
 #### 実績
@@ -165,9 +167,12 @@ CI/CDを実現するための仕組みの構築や維持改善の取り組みを
 
 #### 経験プロダクト
 
+- OS: Linux (Ubuntu)
 - AWS: EC2, ECS, RDS, DynamoDB, ElasticSearchService, S3, ALB, Route53, CodeDeploy, CodePipeline, ElasticBeanstalk, Lambda etc...
-- MW: Apache, NGINX
+- Web: Apache, NGINX
 - Monitoring: Mackerel
+- Programing Language: Ruby
+- VCS: Git (GitHub)
 
 ### 株式会社ラクーン (2014年9月 ～ 2018年3月)
 #### 役割
@@ -187,17 +192,17 @@ BtoBサービスのインフラ分野の設計/構築/運用/保守を全て担�
 
 #### 経験プロダクト
 
-- OS: Linux(CentOS, Amazon Linux), FreeBSD, WindowsServer2012, VMWare ESXi
+- OS: Linux (CentOS, Amazon Linux), FreeBSD, WindowsServer2012, VMWare ESXi
 - Web/AP: Apache, Tomcat, Passenger
 - DB: Oracle, MySQL
 - Monitoring: Zabbix
 - KVS: memcached, Redis
-- ストレージ: NetApp, ZFS
-- ネットワーク機器: F5 BIG-IP, Cisco Catalyst, Yamaha RTX, HP Procurve
+- Storage: NetApp, ZFS
+- Network Appliance: F5 BIG-IP, Cisco Catalyst, Yamaha RTX, HP Procurve
 - AWS: EC2, RDS, ELB, S3, Route53
-- 言語: Bash, PHP, Ruby
-- VCS: Git, SVN
-- その他: ElasticSearch, KeepAlived, Vagrant, Jenkins, WordPressなど
+- Programing Language: PHP, Ruby
+- VCS: Git (GitLab), SVN
+- Other: ElasticSearch, KeepAlived, Vagrant, Jenkins, WordPressなど
 
 #### 実績
 
